@@ -1,4 +1,5 @@
 # Brown_Project3a
+FILES EDITED / FILE ADDED : forms, symbols.csv
 Project: Stock Data Visualization on the Web
 Project Objectives
 To extend the functionality of project 3 by making it accessible on the web.
